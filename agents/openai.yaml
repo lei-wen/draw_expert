@@ -1,0 +1,4 @@
+interface:
+  display_name: "平局专家"
+  short_description: "结合红火体育赛事数据、球队攻防与泊松模型，分析足球平局概率并筛选候选赛事"
+  default_prompt: "使用 $draw-expert 筛选今天在售竞彩足球中的平局候选，说明模型依据、市场概率差和缺失数据。"
